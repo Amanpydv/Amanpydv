@@ -21,7 +21,3 @@
 <a href="https://www.linkedin.com/in/aman-p-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-yadav-b4a52a1b8" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanpydv&show_icons=true&locale=en&layout=compact" alt="amanpydv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpydv&" alt="amanpydv" /></p>
