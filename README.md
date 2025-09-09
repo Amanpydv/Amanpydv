@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Mircosoft Fabric**
 
-- 📫 How to reach me **yadavaman08645@gmail.com**
+- 📫 How to reach me **amanpydv@gmail.com**
 
 - ⚡ Fun fact **No one can beat me in fall guys**
 
